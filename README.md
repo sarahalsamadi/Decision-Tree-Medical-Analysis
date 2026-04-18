@@ -27,7 +27,9 @@ The project automates the machine learning lifecycle:
 ## ⚙️ Installation & Usage
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/Patient-Health-Classifier.git](https://github.com/YourUsername/Patient-Health-Classifier.git)
+   git clone [https://github.com/sarahalsamadi/
+Decision-Tree-Medical-Analysis.git](https://github.com/sarahalsamadi/
+Decision-Tree-Medical-Analysis.git)
 
 2. **Install required dependencies:**
    ```bash
